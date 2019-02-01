@@ -10,7 +10,7 @@ Wszystkich użytkowników obowiązują postanowienia zapisane poniżej
 1.3: Konta, które są nieaktywne dłużej niż 100 dni są automatycznie usuwane.
 1.4: Konta, nieaktywowane dłużej jak 7 dni są automatycznie usuwane.
 1.5: Zakładając konto, użytkownik wyraża tym samym zgodę na publikowanie jego treści na forum.
-1.6: Zakładając konto, użytkownik wyraża zgodę na nieusuwanie jego publikacji (postów) przez administracje w kązdym przypadku, również w przyapdku usnięcia konta.
+1.6: Zakładając konto, użytkownik wyraża zgodę na nieusuwanie jego publikacji (postów) przez administracje w każdym przypadku, również w przypadku usunięcia konta.
 
 2. Korzystanie z forum:
 2.1: Każdy Użytkownik powinien zapoznać się z działami dostępnymi na forum oraz zasadami w nich obowiązującymi, które są opisane w ogłoszeniach i przyklejonych tematach.
@@ -30,18 +30,20 @@ Pozostałe są do dyspozycji wszystkich użytkowników.
 2.12: Od rozwiązywania problemów jest Forum. Nie spamuj linkami do założonego wątku w postach, podpisie, SB, PW, maili oraz kanałach prywatnych.
 2.13: ShoutBox (SB) - służy do luźniej dyskusji z zachowaniem kultury słownictwa.
 2.14: Na Forum obowiązuje używanie znaczników CODE przy umieszczaniu wyników z konsoli. Trzykrotne zlekceważenie zaleceń Moderatora lub Administratora będzie skutkowało jednodniowym banem i zamknięciem tematu.
-2.15  Prosimy unikać pisania postu pod postem.Jeżeli zajdzie potrzeba,aby uzupełnić poprzednią wypowiedź proszę używać opcji Modyfikuj
-2.16 Należy unikać dodawania obrazków do postów przekraczających rozmiar 640x480 pikseli. W przypadku większych rozmiarów należy zastosować miniaturkę bądź link.
+2.15: Prosimy unikać pisania postu pod postem.Jeżeli zajdzie potrzeba,aby uzupełnić poprzednią wypowiedź proszę używać opcji Modyfikuj
+2.16: Należy unikać dodawania obrazków do postów przekraczających rozmiar 640x480 pikseli. W przypadku większych rozmiarów należy zastosować miniaturkę bądź link.
+2.17: Administratorzy i Moderatorzy nie ponoszą odpowiedzialności za prezentowane przez innych użytkowników treści.
+
 
 3. Treści zakazane oraz kary:
-3.1: Zakazuje się umieszczania treści sprzecznych z polskim i międzynarodowym prawem, które naruszają dobro innych osób, firm i instytucji, a w szczególności:
+3.1: Zakazuje się umieszczania treści sprzecznych z polskim prawem, które naruszają dobro innych osób, firm i instytucji, a w szczególności:
  - treści uznanych powszechnie za wulgarne, obraźliwe, oszczercze wobec innych,
  - treści dyskryminujących: grupy wyznaniowe, etniczne, mniejszości seksualne, rasowe i inne,
  - treści faszystowskich, propagujących przemoc, uznawanych powszechnie za drastyczne czy przerażające,
  - treści związanych z pornografią,
  - treści zachęcających lub pochwalających zażywanie środków odurzających tj. narkotyki, alkohol itd.
 
-3.2: Zakazuje się rozpowszechniania piractwa w każdej formie, dotyczy to:
+3.2: Zakazuje się rozpowszechniania treści nielegalnych w każdej formie, dotyczy to:
  - wskazywania źródeł w celu pozyskania nielegalnego oprogramowania,
  - przekazywanie nielegalnie pozyskanego oprogramowania,
  - podawania seriali, cracków, key generatorów etc.,
@@ -50,25 +52,27 @@ Pozostałe są do dyspozycji wszystkich użytkowników.
  - zakazuje się zadawania pytań o sposób pozyskania rzeczy, o których powyżej,
  - zakazuje się przywłaszczania/łamania praw autorskich.
 
-3.3: Zabrania się umieszczania reklam, ogłoszeń, linków referencyjnych w jakiejkolwiek formie, za wyjątkiem tych uzgodnionych z administracją forum lub portalu. W sprawie umieszczania reklam należy kontaktować się osobiście z administracją forum lub portalu.
+3.3: Zabrania się umieszczania reklam, ogłoszeń, linków referencyjnych w jakiejkolwiek formie, za wyjątkiem tych uzgodnionych z administracją forum lub portalu. W sprawie umieszczania reklam należy kontaktować się osobiście z administracją forum.
 3.4: Posty i tematy niezgodne z regulaminem będą usuwane lub treść ich będzie modyfikowana przez moderatorów.
 3.5: Użytkownicy nagminnie łamiący regulamin, netykietę oraz ignorujący upomnienia moderatorów powinni liczyć się z otrzymaniem ostrzeżenia lub z zablokowaniem dostępu do Forum
 3.6: Zablokowanie dostępu do Forum (zwane banem) może mieć następujący charakter:
  - czasowo określony - konto Użytkownika zostanie zablokowane i otrzyma on zakaz pisania na czas określony. Po upływie tego czasu  konto zostanie odblokowane,
- - czasowo nieokreślony - konto użytkownika zostanie zablokowane na czas bliżej nikomu nieznany,
+ - czasowo nieokreślony - konto użytkownika zostanie zablokowane na czas nieokreślony,
  - stały - konto zostanie zablokowane na zawsze lub zostanie usunięte z forum.
 3.7: Decyzję o ukaraniu podejmuje Administrator lub Moderator.
+3.8: Zabronione jest prowadzenie zbędnych polemik, składających się m.in. z dużej ilości krótkich postów bez treści merytorycznej, odbiegających w sposób znaczący od głównego tematu, a także ostrych wypowiedzi i kłótni.
+Wszelkie tematy, których forma przyjmie charakter czatu internetowego lub luźnej pogawędki, a które mogą być kontynuowane drogą Prywatnych Wiadomości, komunikatorów internetowych lub e-maili będą zamykane, ewentualnie usuwane będą konkretne posty.
+Ocena tematu pod kątem niniejszego punktu pozostaje w rękach Administratorów i Moderatorów forum.linuxmint.pl.
 
 4. Administratorzy i Moderatorzy mają prawo:
 4.1: zmienić lub zażądać zmiany tytuł tematu jaki i samego posta od użytkownika,
-4.2: zmieniać i podpisywać swoje poprawki przy integracji w treść wiadomości,
+4.2: zmieniać i podpisywać swoje poprawki przy ingerencji w treść wiadomości,
 4.3: wystosować ostrzeżenie na forum lub e-mail,
 4.4: zablokować dostęp do forum dla danego użytkownika na stałe lub tymczasowo,
 
 5. Użytkownik ma prawo:
-4.1: Zażądać usunięcia konta
-4.2: 
-
+4.1: Publikować posty na forum bedąc zarejestrowanym
+4.2: Zażądać usunięcia konta
 
 POSTANOWIENIA KOŃCOWE
 Niniejszy Regulamin odnosi się do wszystkich treści publikowanych na forum w jakiejkolwiek formie. Nie jest to forma zamknięta, więc może być modyfikowany. 
